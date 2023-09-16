@@ -1,0 +1,13 @@
+
+.idea/BattleStar.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+__pycache__/Alien.cpython-37.pyc
+__pycache__/Bullet.cpython-37.pyc
+__pycache__/game_functions.cpython-37.pyc
+__pycache__/Settings.cpython-37.pyc
+__pycache__/Ship.cpython-37.pyc
